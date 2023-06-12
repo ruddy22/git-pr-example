@@ -1,0 +1,8 @@
+{
+  "name": "git-pr-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ruddy22/git-pr-example.git",
+  "author": "Alexey Petrov <ruddy22@mail.ru>",
+  "license": "MIT"
+}
