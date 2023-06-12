@@ -7,3 +7,5 @@
  Duis ornare suscipit bibendum. In vehicula dictum libero, at feugiat dui molestie ut. Sed sollicitudin elementum sem, vitae malesuada metus lobortis congue. Donec sem leo, rhoncus eget lacus nec, commodo fermentum justo. Nam accumsan pellentesque pellentesque. Integer finibus ultrices rutrum. Maecenas feugiat placerat nisl, eu rutrum enim dignissim in. Aenean in diam vehicula lorem consectetur eleifend vitae ut risus.
 
 finish
+
+the end of manual
